@@ -15,3 +15,4 @@ Integrantes:
   - Sandoval Reyes Victor Oswaldo
   - Ortega Gianella Nicolas Jorge
   - Villar Marcelo Arturo Enrique
+  - Rodriguez Valverde Camila Rosa 
