@@ -16,3 +16,4 @@ Integrantes:
   - Ortega Gianella Nicolas Jorge
   - Villar Marcelo Arturo Enrique
   - Rodriguez Valverde Camila Rosa 
+  - Palacios Dávalos Flavia
